@@ -1,0 +1,36 @@
+[
+	{
+		"precio": 10.990,
+		"id": 1,
+		"title": "Pizza de Pepperoni",
+		"thumbnailUrl": "images/P1.png"
+	},
+
+	{
+		"precio": 6.990,
+		"id": 2,
+		"title": "Hamburguesa Clasica",
+		"thumbnailUrl": "images/f2.png"
+	},
+
+	{
+		"precio": 7.990,
+		"id": 3,
+		"title": "Pizza Vegetariana",
+		"thumbnailUrl": "images/p2.png"
+	},
+
+	{
+		"precio": 3.990,
+		"id": 4,
+		"title": "Papas fritas",
+		"thumbnailUrl": "images/f5.png"
+	},
+
+	{
+		"precio": 6.990,
+		"id": 5,
+		"title": "Hamburguesa Tasty",
+		"thumbnailUrl": "images/f8.png"
+	}
+]
